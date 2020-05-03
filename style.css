@@ -1,0 +1,45 @@
+.jumbotron {
+    background-color: #2E2D88;
+    color: white;
+}
+
+.topMargin32 {
+    margin-top: 32px;
+}
+
+.topMargin16 {
+    margin-top: 16px;
+}
+
+.topMargin24 {
+    margin-top: 24px;
+}
+
+.bottomMargin32 {
+    margin-top: 32px;
+}
+
+.bottomMargin16 {
+    margin-top: 16px;
+}
+
+.bottomMargin24 {
+    margin-top: 24px;
+}
+
+.margin32 {
+    margin: 32px;
+}
+
+.margin24 {
+    margin: 24px;
+}
+
+.margin16 {
+    margin: 16px;
+}
+
+.carousel-img {
+    object-fit: cover;
+    height: 650px;
+}
